@@ -1,0 +1,13 @@
+{
+  "name": "proteon-maven",
+  "version": "1.0.2",
+  "summary": "Maven module",
+  "author": "Proteon",
+  "description": "A Puppet module to download artifacts from Maven repositories, installs from Debian repositories",
+  "dependencies": [],
+  "types": [],
+  "checksums": {},
+  "source": "git://github.com/Proteon/puppet-maven.git",
+  "project_page": "http://github.com/Proteon/puppet-maven",
+  "license": "Apache License, Version 2.0"
+}

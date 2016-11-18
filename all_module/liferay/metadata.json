@@ -1,0 +1,18 @@
+{
+  "name": "proteon-liferay",
+  "version": "0.1.3",
+  "summary": "Puppet code for deploying and configuring Liferay in Tomcat",
+  "author": "Proteon",
+  "description": "Puppet code for deploying and configuring Liferay in Tomcat",
+  "dependencies": [
+    {
+      "name": "ripienaar/concat",
+      "version_requirement": "\u003e\u003d0.2.0"
+    }
+  ],
+  "types": [],
+  "checksums": {},
+  "source": "http://github.com/Proteon/puppet-liferay.git",
+  "project_page": "https://github.com/Proteon/puppet-liferay",
+  "license": "Apache License, Version 2.0"
+}
